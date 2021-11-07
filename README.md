@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Emanpeman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in electronics and other fun stuff related to technålågy.
+- 🌱 I’m currently learning about hackrgirl life and my big dream is to become a real life hackrgrl.
 - 📫 How to reach me , dont reach me hehehe yeeehaw
 
 <!---
